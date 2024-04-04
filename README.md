@@ -1,1 +1,1 @@
-This report presents the findings of an exploratory data analysis (EDA) project as we dive into an entirely synthetic dataset. 
+This report presents the findings of an exploratory data analysis (EDA) project as we dive into an entirely synthetic dataset, showcasing various analysis methods utilizing Excel pivot tables, PostgreSQL, and an interactive Tableau dashboard.  
